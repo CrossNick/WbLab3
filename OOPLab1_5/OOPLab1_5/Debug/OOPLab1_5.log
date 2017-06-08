@@ -1,0 +1,28 @@
+﻿Сборка начата 15.05.2017 17:30:08.
+     1>Проект "D:\Универ\лабораторки_прога\WebLab3\OOPLab1_5\OOPLab1_5\OOPLab1_5.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Visual Studio Community\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\OOPLab1_5.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt OOPLab1_5.cpp
+         OOPLab1_5.cpp
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(17): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(21): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(26): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(31): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(32): warning C4129: h: неизвестная escape-последовательность
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(36): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(37): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(61): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(66): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(87): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(90): warning C4018: <: несоответствие типов со знаком и без знака
+     1>d:\универ\лабораторки_прога\weblab3\ooplab1_5\ooplab1_5\ooplab1_5.cpp(72): warning C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+         c:\program files (x86)\windows kits\10\include\10.0.10150.0\ucrt\stdlib.h(1183): note:  см. объявление "getenv"
+       Link:
+         D:\Visual Studio Community\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Универ\лабораторки_прога\WebLab3\OOPLab1_5\Debug\OOPLab1_5.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Универ\лабораторки_прога\WebLab3\OOPLab1_5\Debug\OOPLab1_5.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Универ\лабораторки_прога\WebLab3\OOPLab1_5\Debug\OOPLab1_5.lib" /MACHINE:X86 Debug\OOPLab1_5.obj
+         Debug\stdafx.obj
+         Debug\Triangle.obj
+         OOPLab1_5.vcxproj -> D:\Универ\лабораторки_прога\WebLab3\OOPLab1_5\Debug\OOPLab1_5.exe
+     1>Сборка проекта "D:\Универ\лабораторки_прога\WebLab3\OOPLab1_5\OOPLab1_5\OOPLab1_5.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.47
